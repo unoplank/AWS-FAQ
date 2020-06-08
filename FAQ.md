@@ -34,6 +34,10 @@
 
 6. [Review Prep](https://reviewnprep.com/quiz)
 
+7. [Quizlet](https://www.reddit.com/r/AWSCertifications/comments/gz6ie9/quizlets_aws_certification_practice_questions_by)
+
+8. [Exam Pro](https://www.exampro.co/) included with courses
+
 # AWS Certification Cheat Sheets (in no particular order)
 
 1. [Tutorial Dojo](https://tutorialsdojo.com/) - (Jon Bonso) 
@@ -43,6 +47,8 @@
 3. [Curated list](https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc) of AWS resources for the certification 
 
 4. [AWS in Plain English](https://expeditedsecurity.com/aws-in-plain-english/)
+
+5. [Exam Pro](https://www.exampro.co/) included with courses
 
 # AWS Whitepaper Help (in no particular order)
 
@@ -124,6 +130,8 @@ This section covers things like customer success stories, case studies into cust
 
 7. [Automating Your Documentation](https://www.youtube.com/watch?v=Gma8WAP-XPk) using AWS and Serverless
 
+8. [The Westrum Organization Culture Model](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) - This covers at high-level the signs of an organization's culture. The value here is identifying what organizations' culture best fits the job seeker.
+
 # Communities (in no particular order)
 
 1. Linux Academy Slack - [https://linuxacademy-community-slack.herokuapp.com/](https://linuxacademy-community-slack.herokuapp.com/)
@@ -142,7 +150,7 @@ This section covers things like customer success stories, case studies into cust
 
 # What Do I Need For AWS Job?
 
-While not specific to AWS, the **[DevOps Roadma**p](https://roadmap.sh/devops) is incredibly useful in painting some context for the general learning of AWS concepts like EC2 and logs management and CI/CD tooling.
+While not specific to AWS, the [DevOps Roadmap](https://roadmap.sh/devops) is incredibly useful in painting some context for the general learning of AWS concepts like EC2 and logs management and CI/CD tooling.
 
 [Why An AWS Certification Will Not Get You An AWS Job!](https://www.reddit.com/r/AmazonWebServices/comments/ga0tqc/why_an_aws_certification_will_not_get_you_an_aws/)
 
@@ -181,6 +189,8 @@ An understanding of DevOps and Agile environments
 4. CompTIA [IT Career Path](https://www.comptia.org/content/it-careers-path-roadmap)
 
 5. CompTIA [Tech Town Index 2019](https://www.comptia.org/content/research/best-tech-cities-it-jobs)
+
+6. [IT Career Roadmap 2020 by Salary](https://i.lensdump.com/i/iHcJHP.png) - credits to [/u/SinecureLife](https://www.reddit.com/r/ITCareerQuestions/comments/dbjkdx/oc_common_it_career_paths_roadmap_visual_2020/)
 
 # What Certification Should I Get?
 
